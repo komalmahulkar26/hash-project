@@ -1,0 +1,19 @@
+.container{
+    width: 400px;
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:2px;
+    background:whitesmoke;
+    overflow:hidden;
+    border-radius: 10px;
+    padding: 3px 2px;;
+    color:black
+    
+}
+.btn{
+width:80px;
+    background:gray;
+    padding: 10px;
+    border-radius:10px;
+     border:2px solid rgb(59, 57, 57);
+}
